@@ -1,5 +1,5 @@
 ### Hi there 👋 I am AileronN
-Contact: aileronn143@gamil.com
+Contact: aileronn143@gmail.com
 
 <!--
 **AileronN/AileronN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
